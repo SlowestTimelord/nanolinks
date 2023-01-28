@@ -1,0 +1,34 @@
+
+  <li class="fs-3 fw-400">
+    {% if include.link.referral_url != nil %}
+    <a href="{{ link.referral_url }}">{{ include.link.name }}</a>
+    {% else %}
+    <a href="{{ link.url }}">{{ include.link.name }}</a>
+    {% endif %}
+    {% if include.link.description != nil and include.tag == "featured" %}
+    - {{ include.link.description }}
+    {% endif %}
+    {% if include.link.tags contains "verified" and include.tag != "featured" %}
+    <img src="/assets/images/verified.png" alt="NanoLinks Recommended" title="NanoLinks Recommended" />
+    {% endif %}
+  </li>
+
+
+  <!--
+  <span class="fs-3">
+    {{ include.link.description }}
+    {% if include.link.creator != nil %}
+    ({{ include.link.creator }})
+    {% endif %}
+  </span><br />
+  -->
+
+  <!--
+  <span class="fs-2">
+    {% if include.link.referral_url != nil %}
+    <a href="{{ link.referral_url }}">{{ include.link.url }}</a>
+    {% else %}
+    <a href="{{ link.url }}">{{ include.link.url }}</a>
+    {% endif %}
+  </span>
+  -->

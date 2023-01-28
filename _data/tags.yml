@@ -1,0 +1,18 @@
+# pages that should separate links out by sections
+has_sections: [information, wallets, explorers, exchanges, merchant integrations, community, development, entertainment, videos, tools]
+
+# sections are how above pages are divided. there's no "other/misc" section so every link needs a tag that exists here
+sections: [wallet guides, native wallets, multiasset wallets, hardware wallets, dev wallets, paper wallets, vanity addresses,
+block explorers, statistics, transaction visualizers,
+traditional exchanges, swap services,
+payment processors, point of sale solutions,
+gaming, gambling, art, earn nano,
+main protocol, community, node and account applications, wallets source code, libraries and protocols, beta network
+core social media, subreddits, international,
+core team, education and adoption, scientific papers, external media, developer info,
+channels, discussions, promotional videos,
+apps and integrations, market data
+]
+
+# links hide all labels by default unless they show here. overridden by tag parameter (e.g. main page doesn't show Featured tag)
+labels_show: [featured]

@@ -1,0 +1,11 @@
+{% assign sorted_news = site.data.news | sort: 'date' | reverse %}
+{% assign lastdate = "" %}
+{% for item in sorted_news limit: include.top %}
+  {% if lastdate != item.date %}
+    {% assign lastdate = item.date %}
+    <h3><img src="/assets/icons/calendar.png" class="h3-icon" />{{ item.date | date: "%B %Y" }}</h3>
+  {% endif %}
+  <div class="lh-default mb-1">
+    <span class="fs-3 fw-400">&#8226; <a href="{{ item.url }}">{{ item.title }}</a></span>
+  </div>
+{% endfor %}

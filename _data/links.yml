@@ -1,0 +1,2944 @@
+## format
+# name:
+# creator: will show up in parentheses after the description
+# tags: [array] with at least one tag being a label page, and the other being a valid sections if label page has_sections
+# description:
+# date: date link added -- used to populate Last Updated and for sorting purposes on some pages
+
+- name:
+  creator:
+  url:
+  tags:
+  description:
+  date:
+
+
+- name: Nano.org
+  url: https://nano.org
+  description: Official site
+  tags: [information, core team, verified, featured]
+  date: 2022-03-25
+
+- name: Nano Hub
+  url: https://hub.nano.org/
+  description: Nano Ecosystem
+  tags: [information, core team, verified, featured]
+  date: 2022-03-26
+
+- name: Full Documentation, Roadmap, Integration guides
+  url: https://docs.nano.org/
+  tags: [information, core team, verified]
+  date: 2022-03-26
+
+- name: Nano Forums
+  url: https://forum.nano.org
+  description: Official forums
+  tags: [information, core team, verified, featured]
+  date: 2022-03-26
+
+- name: Whitepaper (Eng)
+  url: https://nano.org/en/whitepaper
+  tags: [information, core team]
+  date: 2022-03-26
+
+- name: Medium Channel - Main
+  url: https://medium.com/@nanocurrency
+  tags: [information, core team]
+  date: 2022-03-26
+
+- name: Medium Channel - The Nano Center
+  url: https://medium.com/the-nano-center
+  tags: [information, core team]
+  date: 2022-03-26
+
+
+### Education & Adoption
+
+
+- name: What is Nano in 60 Sec
+  url: https://youtu.be/ydVomoXEGe0
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Why Nano
+  url: https://whynano.cc/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: The basics of Nano
+  url: https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: The vision of Nano
+  url: https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Nano.community - News and Learning
+  url: https://nano.community/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Nano Guide 2 - Getting Started
+  url: https://gettingstarted.nanocenter.org/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: What is Nano - A Great Summary
+  url: https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Nano for Newcomers Reddit Series
+  url: https://nanojson.medium.com/nano-for-newcomers-75e64535327a
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Learn Nano
+  url: https://learnnano.com/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Nano Portal - Info and Links
+  url: https://www.nanoportal.cc/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: News for Nano - Info, Articles, Videos
+  url: https://newsfornano.com/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - Nano Education
+  url: https://medium.com/nano-education
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - Colin LeMahieu (Founder)
+  url: https://medium.com/@clemahieu
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - Senatus Medium
+  url: https://senatusspqr.medium.com/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - Senatus Substack
+  url: https://senatus.substack.com/archive?utm_source=menu-dropdown
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - Json
+  url: https://nanojson.medium.com/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - James Coxon
+  url: https://medium.com/@jacoxon
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - SomeNano
+  url: https://somenano.medium.com/
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Informative Medium Articles - Bruno Garcia (Community Manager)
+  url: https://medium.com/@brunoerg
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Best Practices When Using a Hardware Wallet
+  url: https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Nano Infographics
+  url: https://imgur.com/a/tPaK9hp
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+- name: Guide&#58; Nano for Twitch Streamers
+  url: https://sites.google.com/view/nanofortwitch
+  tags: [information, education and adoption]
+  date: 2022-03-26
+
+### Scientific Papers
+
+
+- name: Distributed Ledger Technology&#58; Blockchain Compared to Directed Acyclic Graph
+  url: https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph
+  tags: [information, scientific papers]
+  date: 2022-03-26
+
+- name: Scalability of Bitcoin and Nano protocols&#58; Comparison
+  url: http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf
+  tags: [information, scientific papers]
+  date: 2022-03-26
+
+#### External Media
+
+
+- name: Colin LeMahieu joins the @Crypto101Pod podcast
+  url: https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain
+  tags: [information, external media]
+  date: 2022-03-26
+
+- name: Emerging Economies Are Our Target Market&#58; Nano Founder Colin LeMahieu
+  url: https://cryptobriefing.com/nano-adoption-target-market/
+  tags: [information, external media]
+  date: 2022-03-26
+
+- name: Third Generation Cryptocurrencies
+  url: https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d
+  tags: [information, external media]
+  date: 2022-03-26
+
+- name: Climate concerns&#58; Bitcoin’s dark side - Nano to the rescue
+  url: https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny
+  tags: [information, external media]
+  date: 2022-03-26
+
+- name: The Top 5 Environmentally Friendly Bitcoin Alternatives
+  url: https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/
+  tags: [information, external media]
+  date: 2022-03-26
+
+- name: Decrypt&#58; Green alternatives to Bitcoin
+  url: https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos
+  tags: [information, external media]
+  date: 2022-03-26
+
+#### Developer Info
+
+- name: Nano Dev List - Developer donation and sponsorship portal
+  url: https://nanodevlist.com/
+  tags: [information, developer info]
+  date: 2022-03-26
+
+- name: Nano Simple Tutorial
+  url: https://github.com/ealtamir/nano-simple-tutorial
+  tags: [information, developer info]
+  date: 2022-03-26
+
+- name: Nano Jobs - Earn Nano for your work
+  url: https://nanojobs.space/
+  tags: [information, developer info]
+  date: 2022-03-26
+
+- name: Nanos.cc - Various projects hosted by Json
+  url: https://nanos.cc/
+  tags: [information, developer info]
+  date: 2022-03-26
+
+
+### Exchanges
+
+- name: Binance
+  url: https://www.binance.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Binance.US
+  url: https://www.binance.us/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Binance JEX
+  url: https://www.jex.com/en
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Kraken
+  url: https://www.kraken.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: DigiFinex
+  url: https://www.digifinex.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: KuCoin
+  url: https://www.kucoin.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: OkEx
+  url: https://www.okex.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Huobi - Global
+  url: https://www.huobi.com/en-us/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Huobi - Korea
+  url: https://www.huobi.co.kr/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bitcoin Suisse
+  url: https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bitvavo
+  url: https://bitvavo.com/en
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Coinbene
+  url: https://www.coinbene.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: HitBTC
+  url: https://hitbtc.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Mercatox
+  url: https://mercatox.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bitflip
+  url: https://bitflip.li/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: RightBTC
+  url: https://www.rightbtc.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bit-Z
+  url: https://www.bit-z.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Coindeal
+  url: https://coindeal.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Gate.io
+  url: https://gate.io/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Koinex
+  url: https://koinex.in/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bitinka
+  url: https://www.bitinka.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bitladon
+  url: https://www.bitladon.com/nano
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Coinall
+  url: https://www.coinall.com/market?product=nano_btc
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Txbit
+  url: https://txbit.io/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Bitturk
+  url: https://bitturk.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Qtrade
+  url: https://qtrade.io
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Wazirx
+  url: https://wazirx.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: DragonEx
+  url: https://dragonex.io/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: ProBit
+  url: https://www.probit.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Poinex
+  url: https://www.pionex.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: ATOMARS
+  url: https://atomars.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: BiONE
+  url: https://www.bione.info/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: CoinDCX
+  url: https://coindcx.com
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: CoinEx
+  url: https://www.coinex.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Dex-Trade
+  url: https://dex-trade.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+- name: Tokocrypto - Indonesia
+  url: https://www.tokocrypto.com/
+  tags: [exchanges, traditional exchanges]
+  date: 2022-03-26
+
+
+### Swaps
+
+- name: Wirex - Visa payment card, fiat on/off ramp
+  url: https://wirexapp.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Changelly
+  url: https://changelly.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Coinify
+  url: https://coinify.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Coingate
+  url: https://coingate.com/buy/nano
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Uphold (No Nano Withdrawal)
+  url: https://uphold.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Crypto.com
+  url: https://crypto.com
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Metalpay
+  url: https://www.metalpay.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: N.Exchange
+  url: https://n.exchange/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Swaplab
+  url: https://swaplab.cc/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: One Page Exchange
+  url: https://onepagex.com
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: SimpleSwap.io
+  url: https://simpleswap.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: changeNOW.io
+  url: https://changenow.io/?to=nano
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Elastum.io - European Gateway
+  url: https://elastum.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Cake Wallet for XMR Monero
+  url: https://cakewallet.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Godex.io
+  url: https://godex.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: SwapSpace
+  url: https://swapspace.co/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Nano.Trade - Banano/Nano
+  url: https://banano.nano.trade/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Nano.Trade - Moon/Nano
+  url: https://moon.nano.trade/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: MoonPay
+  url: https://www.moonpay.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Swapzone - Trading offers
+  url: https://swapzone.io/?to=nano
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Exolix - Swap at fixed rate
+  url: https://exolix.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Bitexen - Turkia
+  url: https://www.bitexen.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: StealthEX.io
+  url: https://stealthex.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: AnchorUSD
+  url: https://www.anchorusd.com/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Monnos - Brazil
+  url: https://monnos.com/exchange/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: SwapSwop — Cryptocurrency exchange platform
+  url: https://swapswop.io/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: Bitlive
+  url: https://bitlive.pro/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+- name: GetNano
+  url: https://getnano.exchange/
+  tags: [exchanges, swap services]
+  date: 2022-03-26
+
+### Wallets
+
+
+- name: Nanowallets - Feature Guide
+  url: https://nanowallets.guide/
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+#### Native Wallets
+
+
+- name: Natrium
+  url: https://natrium.io/
+  description: Android/iOS wallet
+  tags: [wallets, native wallets, verified, featured]
+  date: 2022-03-26
+
+- name: Nault
+  url: https://nault.cc
+  description: Web/Desktop wallet
+  tags: [wallets, native wallets, verified, featured]
+  date: 2022-03-26
+
+- name: TIX - Web
+  url: https://tixwallet.cc
+  tags: [wallets, native wallets]
+  date: 2022-03-26
+
+- name: WeNano - iOS, Android
+  url: https://wenano.net/
+  tags: [wallets, native wallets, verified]
+  date: 2022-03-26
+
+- name: Nalli - Android,iOS
+  url: https://nalli.app/
+  tags: [wallets, native wallets]
+  date: 2022-03-26
+
+- name: Kaiak - KaiOS
+  url: https://kaiak.cc/
+  tags: [wallets, native wallets]
+  date: 2022-03-26
+
+- name: Camo Nano - Desktop
+  url: https://github.com/coranos/camo-nano-light-wallet
+  tags: [wallets, native wallets]
+  date: 2022-03-26
+
+#### Dev Wallets
+
+
+- name: Nano Node Wallet - The original one
+  url: https://github.com/nanocurrency/nano-node/releases
+  tags: [wallets, dev wallets]
+  date: 2022-03-26
+
+- name: Pippin - High-performance Python wallet
+  url: https://github.com/appditto/pippin_nano_wallet
+  tags: [wallets, dev wallets]
+  date: 2022-03-26
+
+- name: KeyTools - Manual Block Handler
+  url: https://tools.nanos.cc/?tool=sign
+  tags: [wallets, dev wallets]
+  date: 2022-03-26
+
+#### Multi Asset Wallets
+
+
+- name: Exodus - Win, Mac, Linux, iOS, Android
+  url: https://www.exodus.io/
+  tags: [wallets, multiasset wallets]
+  date: 2022-03-26
+
+- name: Trust Wallet - iOS, Android
+  url: https://trustwallet.com/
+  tags: [wallets, multiasset wallets]
+  date: 2022-03-26
+
+- name: Atomic - Win, Mac, Ubuntu, Debian, Fedora
+  url: https://atomicwallet.io/
+  tags: [wallets, multiasset wallets]
+  date: 2022-03-26
+
+- name: Guarda - Win, Mac, Debian, Ubuntu, Linux, Web, iOS, Android, Chrome extension
+  url: https://guarda.com/
+  tags: [wallets, multiasset wallets]
+  date: 2022-03-26
+
+#### Address Generators, Paper Wallets
+
+
+- name: NanoPaperWallet.com
+  url: https://nanopaperwallet.com/
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: KeyTools Paper Wallet with Mnemonic
+  url: https://tools.nanos.cc/?tool=paper
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Paper Wallet Generator (vitorcremonez)
+  url: https://vitorcremonez.github.io/nano-paper-wallet/
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Nano Gift - Gift Card and Paper Wallet Generator
+  url: https://nanogift.me
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Heytipme
+  url: https://heytip.me/
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: RaiPaper
+  url: https://blootoon.github.io/rai-paper/
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Rai Paper Wallet
+  url: https://numtel.github.io/rai-paper-wallet/
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Nano Warp Wallet
+  url: https://termhn.github.io/nanowarpwallet/
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Dropil - Graphical Templates
+  url: https://paper.dropil.com
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+- name: Secure Seed Commands - How to Generate Seeds in various OS
+  url: https://www.secureseedcommands.com
+  tags: [wallets, paper wallets]
+  date: 2022-03-26
+
+### Vanity addresses
+
+- name: KeyTools Vanity Generator
+  url: https://tools.nanos.cc/?tool=vanity
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Nano Vanity Generator (njakob)
+  url: https://nanoaddr.io/
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Nano Vanity Generator (frankh)
+  url: https://github.com/frankh/nano-vanity
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Nano Vanity Generator (PlasmaPower)
+  url: https://github.com/PlasmaPower/nano-vanity
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Nano Vanity Generator (vitorcremonez)
+  url: https://github.com/vitorcremonez/nano-vanity
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Distributed Vanity Address Generation
+  url: https://plasmapower.github.io/distributed-vanity/
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Encrypted Paper Wallet
+  url: https://igorcmelo.github.io/enc-paper-wallet/
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+- name: Paper Wallet - German
+  url: https://nanocoin.ch/?page_id=175
+  tags: [wallets, vanity addresses]
+  date: 2022-03-26
+
+#### Hardware Wallets and Nodes
+
+
+- name: Ledger Nano S
+  url: https://www.ledger.com/
+  tags: [wallets, hardware wallets]
+  date: 2022-03-26
+
+#### Wallet and Account Guides
+
+
+- name: Nano Wallets - Security and Convenience
+  url: https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+- name: How to securely transact on the Nano network using an offline device
+  url: https://medium.com/nanocurrency/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+- name: Ledger Nano - Text Guide
+  url: http://docs.nault.cc/2020/08/04/ledger-guide.html
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+- name: How to transfer Nano from a Ledger Nano recovery phrase using offline signing
+  url: https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+- name: How to create a custom NANO account at maximum speed
+  url: https://medium.com/nanocurrency/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+- name: How to create a stylish Nano QR code
+  url: https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96
+  tags: [wallets, wallet guides]
+  date: 2022-03-26
+
+### Explorers
+
+- name: Nano Looker - Explorer, Stats
+  url: https://www.nanolooker.com/
+  tags: [explorers, block explorers, statistics]
+  date: 2022-03-26
+
+# - name: Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list
+#   url: https://nano-faucet.org/visualizer/
+#   tags: [explorers]
+#   date: 2022-03-26
+
+- name: My Nano Ninja
+  url: https://mynano.ninja/
+  tags: [explorers, block explorers, statistics]
+  date: 2022-03-26
+
+- name: NanoCrawler.cc
+  url: https://nanocrawler.cc/
+  description: Block Explorer
+  tags: [explorers, block explorers, verified, featured]
+  date: 2022-03-26
+
+- name: TOR Block Lattice Explorer (NOTE .onion link)
+  url: http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion
+  tags: [explorers, block explorers]
+  date: 2022-03-26
+
+# - name: Nanex - Consolidated transaction explorer
+#   url: https://nanex.cc/
+#   tags: [explorers]
+#   date: 2022-03-26
+
+- name: Nanoticker - Nano Network Analytics & Performance
+  url: https://nanoticker.info/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+# - name: Live Election Status (NanoQuake)
+#   url: https://nanostatus.live/conf/socket
+#   tags: [explorers]
+#   date: 2022-03-26
+
+# - name: Live Election Status (MyNanoNinja)
+#   url: https://elections.mynano.ninja/
+#   tags: [explorers]
+#   date: 2022-03-26
+
+- name: Live Nano election visualization
+  url: https://nanovisual.numsu.dev/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Live Nano election visualization - Json fork
+  url: https://votes.nanos.cc/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+
+- name: NanoMusic - Musical/Art Visualizer
+  url: http://music.nanos.cc
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Unreal Nano - 3D visualizer build in UnrealEngine4
+  url: https://unreal.nanos.cc/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: NanoSpider
+  url: https://tetraloom.com/spider/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: TX Highway - Nano Vs BTC Visualizer
+  url: https://bitdesert.github.io/txhighway-nano/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: NanoStream
+  url: https://nanostream.eu/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: SomeNano Snow - Real-time snowflakes
+  url: https://snow.somenano.com/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: SomeNano Magic Eye - Real-time stereogram
+  url: https://magiceye.somenano.com/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Nano Fountain
+  url: https://www.nano-fountain.com/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: NanoNV
+  url: https://nanonv.com/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Nano Rockets
+  url: https://anarkrypto.github.io/nanorockets/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Sheep Abduction
+  url: https://nano.sheep-abduction.tk/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Luis Astroids
+  url: https://luis-garcia-remes.itch.io/nano-visualizer
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: DogeTheBananos
+  url: https://azabalo.com/dogethebananos/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Nano Drizzle
+  url: https://www.patientje.nl/projecten/sketches/nano-drizzle/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+- name: Super Nanova
+  url: https://supernanova.com/
+  tags: [explorers, transaction visualizers]
+  date: 2022-03-26
+
+
+- name: Blocktivity - Utilization Comparision
+  url: https://blocktivity.info/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Nanolytics - Network stats
+  url: https://nanolytics.info/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Nano Charts - Representative stats
+  url: https://nanocharts.info/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Nano.community - Representative stats
+  url: https://nano.community/representatives
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: TryNano
+  url: https://www.trynano.io/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Transaction Speed Demo Button
+  url: https://speed.nanoticker.info/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: NanoFees - Fee Tracker
+  url: http://nanofees.info/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Reddit Tip Bot Stats
+  url: http://reddittipbot.com/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Crypto Subreddit Tracker
+  url: https://cryptosub.live/
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Nanocurrency Reddit Stats
+  url: https://subredditstats.com/r/nanocurrency
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+- name: Geographical Node Map
+  url: https://nanomap-061992.web.app/#/dashboard
+  tags: [explorers, statistics]
+  date: 2022-03-26
+
+
+### Faucets (Free Nano)
+
+- name: Nano-Faucet.org
+  url: https://nano-faucet.org/
+  tags: [faucets]
+  date: 2022-03-26
+
+- name: FreeNanoFaucet.com
+  url: https://www.freenanofaucet.com/
+  tags: [faucets]
+  date: 2022-03-26
+
+- name: NanoDrop.io
+  url: https://nanodrop.io/
+  tags: [faucets, verified]
+  date: 2022-03-26
+
+- name: Tetraloom - Faucet
+  url: https://tetraloom.com/nano/
+  tags: [faucets]
+  date: 2022-03-26
+
+- name: ApolloNano - Twitter Faucet
+  url: https://twitter.com/ApolloNano/
+  tags: [faucets]
+  date: 2022-03-26
+
+- name: Nano Faucet - German
+  url: https://faucet.nanocoin.ch/
+  tags: [faucets]
+  date: 2022-03-26
+
+- name: Bonobo Faucet
+  url: https://bonobo.cc/faucet
+  tags: [faucets]
+  date: 2022-03-26
+
+### Merchant & Donation Related [No shops, too many]
+
+
+- name: Wirex - Visa payment card, fiat on/off ramp
+  url: https://wirexapp.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: CoinGate - Nano Payment Service & Gateway
+  url: https://coingate.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nano.to - Nano payment service and API
+  url: https://nano.to/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: NowPayments - Multicurrency payment service
+  url: https://nowpayments.io/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: CoinEmbed - Embeddable widgets for easy cryptocurrency payments
+  url: https://coinembed.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Simplex - Credit cards payment service
+  url: https://www.simplex.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: ShareRing - Sharing & Rental service
+  url: https://sharering.network
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service
+  url: https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: SomeNano - Wordpress paywall plugin
+  url: https://wordpress.org/plugins/somenano/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Bitback - Payment Service, Address book
+  url: https://bitback.me/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nanote - Hosted Payment Forms
+  url: https://nanote.net/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nanopurse - Payment Service with Privacy
+  url: https://nanopurse.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Twitter Tip Bot - Donation service
+  url: https://nanotipbot.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Reddit Tip Bot - Donation service
+  url: https://github.com/danhitchcock/nano_tipper_z
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: NanoTwitch - Gaming donation service
+  url: https://nanotwit.ch/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: UseNano - Nano Merchants Directory
+  url: https://usenano.org/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: WeAcceptCryptocurrency.com
+  url: https://www.weacceptcryptocurrency.com/pay-with-nano
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: CryptoAccepted - Crypto Merchants Directory
+  url: https://cryptoaccepted.app/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Coinbates - Crypto Cashback Service
+  url: https://www.coinbateslaunch.com/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nano Gift - Gift Card and Paper Wallet Generator
+  url: https://nanogift.me
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nanogate - Giftcards
+  url: https://nanogate.io/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: The Micrypto Marketplace - Hash power trading
+  url: https://www.micrypto.co
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nano Pay - Chrome payment extension
+  url: https://github.com/PaulBenabou/Nano-Pay
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Nano Donate - Chrome donation extension
+  url: https://nanocharts.info/nano-donate.html
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: NanoGift - Browser extension for site donations
+  url: https://tetraloom.com/nanogift/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: PayNano - Payment link generator
+  url: https://paynano.me/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: KeyTools Payment link generator
+  url: https://tools.nanos.cc/?tool=pay
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+- name: Bitrequest - Accept crypto anywhere
+  url: https://www.bitrequest.io/
+  tags: [merchant integrations, payment processors]
+  date: 2022-03-26
+
+
+
+### Point of Sale
+
+
+- name: Appia - Payment service, PoS
+  url: http://appia.co/
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: Kappture - Payment service, PoS
+  url: https://www.kappture.co.uk/cryptocurrency.html
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: Kappture - Accepting cryptocurrency at the point-of-sale (paper)
+  url: https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: Paytomat - Payment Service. PoS, Fiat gateway
+  url: https://paytomat.com/
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: MoonPos - Mobile PoS
+  url: https://www.moonposapp.com/
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: Nault - PoS. Wallet setup needed
+  url: https://nault.cc/receive
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: TIX - PoS without login/seed needed (Demo URL)
+  url: https://tixwallet.cc/#/pos/nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+- name: Nandro - Simple desktop POS
+  url: https://github.com/JerzyStanislawski/Nandro
+  tags: [merchant integrations, point of sale solutions]
+  date: 2022-03-26
+
+### Services
+
+- name: Put.io - File Serving
+  url: https://put.io
+  tags: [services]
+  date: 2022-03-26
+
+- name: Wall of Nano
+  url: https://wallofnano.com/
+  tags: [services]
+  date: 2022-03-26
+
+- name: Donano - Crowdfunding for Creators
+  url: https://www.donano.to
+  tags: [services]
+  date: 2022-03-26
+
+- name: DeMixor - Music Vocal Remover
+  url: https://demixor.com/
+  tags: [services]
+  date: 2022-03-26
+
+- name: FakeFork - Nano dashboard for tabletop gamers
+  url: https://fakefork.com/
+  tags: [services]
+  date: 2022-03-26
+
+- name: NanoWire - Sell/Buy unused bandwidth
+  url: https://nanowire.com/
+  tags: [services]
+  date: 2022-03-26
+
+- name: nPass - Web content payments, paywall
+  url: https://npass.dev/npass
+  tags: [services]
+  date: 2022-03-26
+
+- name: Nanowall.link - Content monetizer
+  url: https://nanowall.link/
+  tags: [services]
+  date: 2022-03-26
+
+- name: Upstart - Digital content hosting and sale platform
+  url: https://upst-art.net/
+  tags: [services]
+  date: 2022-03-26
+
+- name: YayMe - Online marketplace for short-form video lessons
+  url: https://yayme.cc/
+  tags: [services]
+  date: 2022-03-26
+
+- name: Robocash - Spam killer that turns phone calls into cash
+  url: http://myrobocash.com/
+  tags: [services]
+  date: 2022-03-26
+
+- name: PlayNANO - Buy Gift Cards with Nano
+  url: https://playnano.online/gift-cards
+  tags: [services]
+  date: 2022-03-26
+
+
+### Core Social Media & Contribution Channels
+
+- name: r/nanocurrency
+  url: https://www.reddit.com/r/nanocurrency/
+  description: Official subreddit
+  tags: [community, core social media, subreddits, verified]
+  date: 2022-03-26
+
+- name: Discord&#58; Nano Main (Info, Support, Integrations, News)
+  url: https://chat.nano.org
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: Discord&#58; The Nano Center (Community projects, Trade talk, Gaming
+  url: http://discord.nanocenter.org/
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: Twitter
+  url: https://twitter.com/nano
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: Facebook
+  url: https://www.facebook.com/nanofoundation/
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: LinkedIn
+  url: https://www.linkedin.com/company/nano-foundation/
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: Instagram
+  url: https://www.instagram.com/nanocurrency/
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: Telegram
+  url: https://t.me/nanocurrency
+  tags: [community, core social media]
+  date: 2022-03-26
+
+- name: Telegram China
+  url: https://t.me/NanoCN
+  tags: [community, core social media, international]
+  date: 2022-03-26
+
+
+### Related SubReddits
+
+- name: r/NanocurrencyBeginners
+  url: https://www.reddit.com/r/nanocurrencybeginners/
+  tags: [community, subreddits]
+  date: 2022-03-26
+
+- name: r/NanoTrade
+  url: https://www.reddit.com/r/nanotrade/
+  tags: [community, subreddits]
+  date: 2022-03-26
+
+- name: r/Nanoism
+  url: https://www.reddit.com/r/Nanoism/
+  tags: [community, subreddits]
+  date: 2022-03-26
+
+- name: r/JobsForNano
+  url: https://www.reddit.com/r/jobsforNano/
+  tags: [community, subreddits]
+  date: 2022-03-26
+
+- name: r/AcceptNano
+  url: https://www.reddit.com/r/AcceptNano/
+  tags: [community, subreddits]
+  date: 2022-03-26
+
+- name: r/Nyano
+  url: https://www.reddit.com/r/nyano/
+  tags: [community, subreddits]
+  date: 2022-03-26
+
+#### Targeted Countries
+
+- name: Venezuela 1
+  url: https://nano.org.ve/
+  tags: [community, international]
+  date: 2022-03-26
+
+- name: Chinese information and news
+  url: http://www.nano.wang/
+  tags: [community, international]
+  date: 2022-03-26
+
+- name: Chinese forum
+  url: https://www.chainnode.com/forum/349
+  tags: [community, international]
+  date: 2022-03-26
+
+- name: Brazil Facebook Group
+  url: https://www.facebook.com/groups/NanoBrasil
+  tags: [community, international]
+  date: 2022-03-26
+
+- name: NanoUganda
+  url: https://nanoug.com/
+  tags: [community, international]
+  date: 2022-03-26
+
+
+
+# ## Entertainment
+#
+# There are much fun to do but please proceed with caution.
+#
+### Gambling, Betting
+
+
+- name: Nano Games - Betting
+  url: https://nanogames.io/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: LuckyNano - Gambling
+  url: https://luckynano.com/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: Luckygames.io - Gambling
+  url: https://luckygames.io/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: PlayNANO - Provably Fair Roulette
+  url: https://playnano.online/roulette
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: NanoKe - Onchain Betting
+  url: https://nanoke.com/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: Nanobets - Betting
+  url: https://nano.bet/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: Nano Scratch Cards
+  url: https://nanoscratchcards.ct8.pl/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: Pasino - Social Gambling Platform
+  url: https://pasino.com/
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+- name: Simple NANO Game - Betting
+  url: https://nano.besoeasy.com
+  tags: [entertainment, gambling]
+  date: 2022-03-26
+
+### Games
+
+
+- name: NANO Arcade - Game Collection
+  url: https://nanoarcade.org/games
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: NanoQuake - Quake II multiplayer
+  url: https://github.com/Nanoquake/yquake2
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: NanoQuake JS
+  url: http://nanoquakejs.com
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Raiblocks MC - Minecraft
+  url: https://prideislife.github.io/raiblocks_mc/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Unreal Nano - 3D/VR Nano transaction visualizer for mobile and desktop
+  url: https://unreal.nanos.cc/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: NanoCards - A free printable card game
+  url: https://cards.nanos.cc/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Eternity Tower
+  url: https://eternitytower.net/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Player Killers Exchange
+  url: https://playerkillers.exchange
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: The Adventures of Nano
+  url: https://prohyon.itch.io/the-adventures-of-nano-demo
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Raesonic - In-game purchases
+  url: https://raesonic.com/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Nanoce - Nano powered gaming tournaments
+  url: https://nanoce.net/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: PlayNANO - Jumper Multiplayer Game
+  url: https://playnano.online/jumper
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Rock Paper Scissors Online
+  url: https://rock-paper-scissors.online/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: KojoSlayer - Battle RPG
+  url: https://kojoslayer.com/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: FlappyNano - Flappy Bird against friends
+  url: https://flappynano.com/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Nano-it-all Live Trivia Competition
+  url: http://nano-it-all.com/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Earn Nano from playing Just Cause 2 Multiplayer
+  url: https://earn-nano.com/jc2rp
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Skyrun - Endless Runner powered by Nano
+  url: https://deanobones.github.io/Skyrun/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Nanobomb - Game demo that uses nPass tokens
+  url: https://npass.dev/npass/nanobomb
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Apollo Nano - PVP Shooter game
+  url: https://apollonano.com/shooter.php
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Luis Astroids - Transaction Shooter
+  url: https://luis-garcia-remes.itch.io/nano-visualizer
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: Super Nanova - Transaction Shooter
+  url: https://supernanova.com/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+- name: DogeTheBananos - Transaction Jumper
+  url: https://azabalo.com/dogethebananos/
+  tags: [entertainment, gaming]
+  date: 2022-03-26
+
+### Video, Music, Art
+
+
+- name: NanoMusic - Listen to the network live
+  url: http://music.nanos.cc
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+- name: NanoPixelWall - Buy your pixel spot
+  url: https://nanopixelwall.com/
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+- name: The Nanoji Generator
+  url: https://www.nanojigenerator.com/
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+- name: Nano Wallpapers
+  url: https://www.nano-wallpapers.com/
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+- name: NanoPaint - Buy pixels encoded in block chain
+  url: https://tetraloom.com/paint/
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+- name: The Million Nano Homepage
+  url: https://millionnanohomepage.com/
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+- name: NanoPicture
+  url: https://nanopicture.ct8.pl/
+  tags: [entertainment, art]
+  date: 2022-03-26
+
+
+### Earn Nano
+
+
+- name: WeNano - Mobile app with geo-fenced spots with free payouts
+  url: https://wenano.net/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: WeNano Business - Nano Spot feature for your business - iOS, Android
+  url: https://wenano.net/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: BlockHunters - Augmented Reality Nano Hunt - iOS, Android
+  url: http://blockhunters.co/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Earn Nano - Directory for getting Nano without purchase
+  url: https://earn-nano.com/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Distributed PoW System (dPoW)
+  url: https://nanoquakejs.com/dpow/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: P2PoW - Decentralized Proof of Work
+  url: https://github.com/anarkrypto/P2PoW
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Quicrypto - Earn Nano for completing tasks
+  url: https://www.quicrypto.com
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: BitForTip - Earn Nano by being helpful
+  url: https://www.bitfortip.com/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: TryNano - Telegram bot rewards for watching videos
+  url: https://t.me/TryNanoBot
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Deligate - Do small tasks and earn Nano in Telegram
+  url: https://t.me/deligate_bot?start=8101
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: NanoQuake JS - Action game with payout for kills
+  url: http://nanoquakejs.com
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Counter-strike - Action game with nano payout
+  url: https://earn-nano.com/csgo
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Player Killers Exchange - RPG game with payouts
+  url: https://playerkillers.exchange
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Polyrun - Workout rewards
+  url: https://polyrun.app/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: PlayNANO - Earn Free Nano by completing tasks & watching videos
+  url: https://playnano.online/offerwalls
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: unMineable - Earn NANO via GPU and CPU mining - Multi algorithm mining pool
+  url: https://unmineable.com/coins/NANO
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Apollo Nano - PVP Shooter game
+  url: https://apollonano.com/shooter.php
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Just Cause 2 Multiplayer - Action game with nano payout
+  url: https://earn-nano.com/jc2rp
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+- name: Cryptovision - Video sharing platform with rewards
+  url: https://cryptovision.live/
+  tags: [entertainment, earn nano]
+  date: 2022-03-26
+
+
+## Developers
+
+### Nano Main Protocol
+
+- name: Nano Source Code Main Repositories
+  url: https://github.com/nanocurrency
+  tags: [development, main protocol]
+  date: 2022-03-26
+
+- name: Node Milestones
+  url: https://github.com/nanocurrency/nano-node/milestones
+  tags: [development, main protocol]
+  date: 2022-03-26
+
+- name: Unofficial Nano Community Wiki
+  url: https://github.com/georgehara/nano/wiki/unofficial
+  tags: [development, main protocol, documentation]
+  date: 2022-03-26
+
+- name: Docker Repo
+  url: https://hub.docker.com/u/nanocurrency/
+  tags: [development, main protocol]
+  date: 2022-03-26
+
+### Project Specific Development Channels
+
+- name: The Nano Center - Community Driven Projects
+  url: https://nanocenter.org/
+  tags: [development, community]
+  date: 2022-03-26
+
+
+- name: Discord&#58; Json/Joohansson Dev Server
+  url: https://discord.gg/RVCuFvc
+  tags: [development, community]
+  date: 2022-03-26
+
+- name: r/nano_tipper (Reddit Tip bot)
+  url: https://www.reddit.com/r/nano_tipper
+  tags: [development, community, subreddits]
+  date: 2022-03-26
+
+- name: r/WeNano
+  url: https://www.reddit.com/r/WeNano/
+  tags: [development, community, subreddits]
+  date: 2022-03-26
+
+### Node & Account Applications
+
+
+- name: KeyTools - High-performance & Secure Web Tools with offline support
+  url: https://tools.nanos.cc
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanobox - Professional API access to the Nano network
+  url: https://nanobox.cc/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: nano.lol IFTTT- "If This Than That" Nano connection for automation
+  url: https://ifttt.com/nano_lol
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Node Monitor
+  url: https://github.com/NanoTools/nanoNodeMonitor
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Node Graphics - Realtime Charts
+  url: https://github.com/Joohansson/NanoNodeGraphics
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: TheCryptoUmbrella - Realtime Node Monitor
+  url: https://github.com/TheCryptoUmbrella/nano-node-monitor
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Node Scripts
+  url: https://github.com/dbachm123/nanoNodeScripts
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Easy Nano Node
+  url: https://nanotools.github.io/easy-nano-node/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Node Docker
+  url: https://github.com/lephleg/nano-node-docker
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Guide - How to Setup a Node at DigitalOcean
+  url: https://1nano.co/support-the-network/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Ogdolo - Crypto Address Alias
+  url: https://ogdolo.com
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: BIP39 Demo by roosmaa
+  url: https://github.com/roosmaa/nano-bip39-demo
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Telegram Bot Source Code
+  url: https://github.com/SergiySW/NanoWalletBot
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Raimixer - Scrambler
+  url: https://github.com/juanjux/raimixer
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoStatus - Price in macOS Menu Bar
+  url: https://github.com/schenkty/nanostatus
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Daily Update of Nano Database - Quick Sync
+  url: https://yadi.sk/d/fcZgyES73Jzj5T
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanoodle - Account Toolbox
+  url: https://nanoodle.io/home
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Stylish QR Code Guide
+  url: https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanosign - Stylish QR Code Generator
+  url: http://nanosign.org/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Paywall - Pay to unlock wordpress content
+  url: https://github.com/nanoble-org/nano-paywall
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanote.io - Send messages with nano
+  url: https://nanote.io/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Paygenerator - Payment link generator (deep links)
+  url: https://nanotipbot.com/paygenerator
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Seed - A Nano take on keys.lol
+  url: https://nano-seeds.meltingice.dev/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanos.cc Public API with token support
+  url: https://api.nanos.cc/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanos.cc Public Websocket
+  url: https://api.nanos.cc/socket
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Mynano&#58; Public node API
+  url: https://mynano.ninja/api
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanoverse&#58; Public node API & web console
+  url: https://nanoverse.io/api/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Connect - Free distributed RPC proxy
+  url: https://github.com/brendena/NanoConnect
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanotify - API and web callback platform
+  url: https://www.nanotify.io/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanooTools
+  url: https://nanoo.tools/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: OpenAPI Specification for Nano RPC API
+  url: https://aspic.github.io/nano-rpc-api/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Cold (Offline, air-gapped) Signing Script
+  url: https://github.com/noahc66260/nano-cold-signing
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Passwordless Authentication (Demo)
+  url: https://nanocharts.info/passwordless/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Appia Manta - Python
+  url: https://github.com/appiapay/manta-python
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Split Nano - Split receives between your team
+  url: https://splitnano.com/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Repeat - Subscription Management for Vendors
+  url: https://nanorepeat.com/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NANOPAY - Open Source API
+  url: https://github.com/besoeasy/nanopay
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoFusion - Multi-signature trustless mixing
+  url: http://nanofusion.casa/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: CoinChores - Teach your kids about Nano
+  url: https://coinchores.com/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoBlog - Decentralized blogging using IPFS
+  url: https://blog.mynano.ninja/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Natricon - Icon identifier for accounts
+  url: https://natricon.com/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoAuth - Authentication service
+  url: https://www.nanoauth.app/#/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Profile - IPFS hosted profile picture network for Nano
+  url: http://nanoprofile.online/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanocrawler Source code
+  url: https://github.com/meltingice/nanocrawler
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoLooker Source code
+  url: https://github.com/running-coder/nanolooker
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoTwitchBot - Show Nano donations on your Twitch stream
+  url: https://github.com/bhickenbottom/NanoTwitchBot
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nanobot - Nano-Integrated Twitch Donations
+  url: https://nanobot.app/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: Nano Register - Source Code
+  url: https://github.com/awesomepandapig/NanoRegister
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: NanoMemo - Cryptographically secure memos for Nano blocks
+  url: https://nanomemo.cc/
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+- name: ApolloNano Automatic Youtube Tipper
+  url: https://github.com/ApolloNano/youtube-tipper
+  tags: [development, node and account applications]
+  date: 2022-03-26
+
+### Wallets [Source Code]
+
+
+- name: Nault
+  url: https://github.com/Nault/Nault
+  tags: [development, wallets source code, verified]
+  date: 2022-03-26
+
+- name: NF Wallet (dev)
+  url: https://github.com/nanocurrency/nano-node
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Natrium
+  url: https://github.com/appditto/natrium_wallet_flutter
+  tags: [development, wallets source code, verified]
+  date: 2022-03-26
+
+- name: Kaiak
+  url: https://github.com/Kaiak/kaiak-wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Canoe
+  url: https://github.com/getcanoe/canoe
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: TIX
+  url: https://github.com/Joohansson/nano-wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nanollet
+  url: https://github.com/brokenbydefault/Nanollet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nanoblocks
+  url: https://github.com/nebyark/nano-blocks
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nanonymous
+  url: https://github.com/LilleJohs/Nanonymous
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Atom
+  url: https://github.com/Atomicwallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Exodus
+  url: https://www.exodus.io/
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Keytools (dev)
+  url: https://github.com/Joohansson/keytools
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Pippin (dev)
+  url: https://github.com/appditto/pippin_nano_wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Trust
+  url: https://github.com/trustwallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nano Light Wallet - NodeJS
+  url: https://github.com/NanoDevs/NanoLightWallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nano Light Wallet
+  url: https://github.com/numtel/open-nano-wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nano Gift - Gift Card and Paper Wallet
+  url: https://github.com/Joohansson/nanogift
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nano Paper Wallet 1
+  url: https://github.com/vitorcremonez/nano-paper-wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Nano Paper Wallet 2
+  url: https://github.com/jelofsson/nano-paper-wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+- name: Encrypted paper wallet
+  url: https://github.com/igorcmelo/enc-paper-wallet
+  tags: [development, wallets source code]
+  date: 2022-03-26
+
+### Protocol, RPC, Libraries, Tools, Servers
+
+
+- name: Nano Unity Plugin - Source code
+  url: https://github.com/wezrule/unitynanoplugin
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Unity Plugin - Asset store
+  url: https://assetstore.unity.com/packages/tools/integration/nano-190960
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Unreal Engine 4 Plugin
+  url: https://github.com/wezrule/UE4NanoPlugin
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: RaiSharp - C# Lib for RPC
+  url: https://github.com/vardthomas/Aggrex.RaiSharp
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoRPC - C# Lib for RPC
+  url: https://github.com/michielpost/NanoRPC
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Prailude - Nano node in Lua and C
+  url: https://github.com/slact/prailude
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: myNanoEmbedded - Lightweight C library for IoT
+  url: https://github.com/devfabiosilva/myNanoEmbedded
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoSwift - A Swift (iOS) Library for Nano
+  url: https://github.com/Priva28/NanoSwift
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: Feeless - Nano node implementation in Rust
+  url: https://github.com/feeless/feeless/
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano-rs - Nano in Rust
+  url: https://github.com/termhn/nano-rs
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: RaiBlocksJS - JS Lib for RPC
+  url: https://github.com/orrybaram/RaiBlocksJS
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: RaiBlocksJS 2 - JS Lib for RPC
+  url: https://github.com/SergiySW/RaiBlocksJS
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: JS Toolkit
+  url: https://github.com/marvinroger/nanocurrency-js
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: jNano - RPC library for Java
+  url: https://github.com/koczadly/jNano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: JNano - Java RPC Client
+  url: https://github.com/rotilho/jnano-client
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanocurrency-web-js - JS Toolkit
+  url: https://github.com/numsu/nanocurrency-web-js
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: RAI - Pythonic Lib for RPC
+  url: https://github.com/kennell/rai
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: Python Nano Tools
+  url: https://github.com/paulmelis/nano-tools
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanolib - Python library for Nano protocol
+  url: https://github.com/Matoking/nanolib
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: PRai - Python RPC Client
+  url: https://github.com/jxub/prai
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: PyRai
+  url: https://github.com/icarusglider/PyRai
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Easyraikit - Python
+  url: https://github.com/AuliaYF/easyraikit-python
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Python - RPC Client
+  url: https://github.com/dourvaris/nano-python
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoPy - Functions and Tools
+  url: https://github.com/nano128/nanopy
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nawano - Lightweight REPL-type Python CLI wallet
+  url: https://github.com/rbw/nawano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Pynanocurrency - Python protocol library
+  url: https://github.com/Matoking/pynanocurrency
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Siliqua - Python modular light wallet
+  url: https://github.com/Matoking/siliqua
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: nano_account_explorer - Python visualizer
+  url: https://github.com/GK-a/nano_account_explorer
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Address Notifier by Json - Python script for tracking Nano accounts
+  url: https://github.com/Joohansson/nano-address-notifier
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: EasyNano - Send/receive Nano with Python
+  url: https://github.com/micah5/easy_nano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: Gonano - Command-line tool written in Go
+  url: https://github.com/hectorchu/gonano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano protocol in Golang
+  url: https://github.com/frankh/nano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity
+  url: https://github.com/codesoap/atto
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: Nano.Net - .Net Lib
+  url: https://github.com/miguel1117/Nano.Net
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoDotNet - .Net Lib
+  url: https://github.com/Flufd/NanoDotNet
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: DotNano - .NET RPC API
+  url: https://github.com/JerzyStanislawski/DotNano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes
+  url: https://github.com/joohansson/nanorpcproxy
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Noxy - A simple and fast Nano RPC proxy and relay
+  url: https://github.com/BitDesert/Noxy
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: LightweightNanoRPCProxy - Simple RPC proxy
+  url: https://github.com/Shryder/LightweightNanoRPCProxy
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+- name: Nanio - RPC Gateway, API Browser
+  url: https://github.com/rbw/nanio
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Shell - Nano Node bash convenience wrapper
+  url: https://github.com/VenKamikaze/nano-shell
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanook - Ruby Lib for RPC
+  url: https://github.com/lukes/nanook
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Ruby Nano RPC - RPC Wrapper for Ruby
+  url: https://github.com/jcraigk/ruby_nano_rpc
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanocurrency Ruby - Toolkit for Ruby
+  url: https://rubygems.org/gems/nanocurrency
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: PHP 4 Nano
+  url: https://github.com/mikerow/php4nano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanopow-rs-node - JS Wrapper for Nanopow-rs
+  url: https://github.com/termhn/nanopow-rs-node
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoLightServer
+  url: https://github.com/NanoDevs/NanoLightServer
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: RaiBlocksWebAssemblyPoW
+  url: https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Work Server
+  url: https://github.com/nanocurrency/nano-work-server
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Rai Ex - Elixir Client
+  url: https://github.com/willHol/rai_ex
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoPoW - PoW Generator in Golang
+  url: https://github.com/serdaroquai/nanopow
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Work Cache - Golang
+  url: https://github.com/catenocrypt/nano-work-cache
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Distributed PoW System (dPoW)- Client and Server
+  url: https://github.com/guilhermelawless/nano-dpow
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Distributed PoW System (dPoW)- Web Client
+  url: https://nanopow.github.io/web/
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Node Raiblocks POW
+  url: https://github.com/numtel/node-raiblocks-pow
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano webGL PoW - GPU
+  url: https://github.com/numtel/nano-webgl-pow
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: WebAssemblyPoW - CPU
+  url: https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano-Prettify - Format Nano Raw Amounts in JavaScript
+  url: https://github.com/kilkelly/nano-prettify
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanocap - Protocol Analyzer
+  url: https://github.com/cryptocode/nanocap
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Wireshark Raiblocks Dissector
+  url: https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Betsy - NANO/BANANO POW precacher, distributor, & callback forwarder
+  url: https://github.com/bbedward/betsy-middleware
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Callback System
+  url: https://github.com/jamescoxon/Nano_Callback_System
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Accept Nano Payment Gateway (Self-hosted)
+  url: https://accept-nano.com
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Address Validator
+  url: https://github.com/alecrios/nano-address-validator
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Unit Converter
+  url: https://github.com/alecrios/nano-unit-converter
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Base32 encoding/decoding
+  url: https://github.com/termhn/nano-base32
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Rai-wallet - Creates ciphered Nano (raiblocks) wallets
+  url: https://github.com/chriscohoat/rai-wallet
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: SecureSeedCommands - Commands for cryptographically secure seeds
+  url: https://github.com/pRizz/SecureSeedCommands
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Offline QR - Send/Receive data with an air-gapped computer using JS html
+  url: https://github.com/Joohansson/offline-qr
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Websocket Client for Python
+  url: https://github.com/guilhermelawless/nano-websocket-sample-py
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Websocket Client for NodeJS
+  url: https://github.com/guilhermelawless/nano-websocket-sample-nodejs
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Thousand Nano Page - Nanopixelwall.com
+  url: https://github.com/jcburuchaga/thousand-nano-page
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Linuxserver.io Nano Stack - How to deploy your own currency with Nano
+  url: https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano on Tap - Docker backend
+  url: https://github.com/silverstar194/NanoOnTap
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanoom - Service for pulling Nano payments
+  url: https://nanoom.tech/
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nanoidenticons - Identification icons for Nano
+  url: https://github.com/keerifox/Nanoidenticons
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Musig-nano - Multisig (multi-signature) demo
+  url: https://github.com/PlasmaPower/musig-nano
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Vote Visualizer by Numsu
+  url: https://github.com/numsu/nano-vote-visualizer
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Vote Visualizer - Json fork
+  url: https://github.com/Joohansson/nano-vote-visualizer
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Election Visualizer by James
+  url: https://github.com/jamescoxon/Nano_Election_Visualiser
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Bucket Visualizer by James
+  url: https://github.com/jamescoxon/Nano_Bucket_Visualizer
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nandro - PoS with NFC integration
+  url: https://github.com/JerzyStanislawski/Nandro
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: NanoDrop - Faucet
+  url: https://github.com/anarkrypto/nanodrop
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+- name: Nano Binance Refund Bot
+  url: https://github.com/jamescoxon/Nano_Binance_Refund_Bot
+  tags: [development, libraries and protocols]
+  date: 2022-03-26
+
+
+### Beta Network
+
+
+- name: Nano Beta Network Resources
+  url: https://beta.nano.org/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net - Nanocrawler explorer
+  url: https://beta.nanocrawler.cc/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net - Nanoticker analytics and performance
+  url: https://beta.nanoticker.info
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net - Nanos.cc Public API
+  url: https://beta-api.nanos.cc/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net - Nanos.cc Public Websocket
+  url: https://beta-api.nanos.cc/socket
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net - Nanos.cc Election Visualizer
+  url: https://beta-votes.nanos.cc/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net Visualizer
+  url: https://nano-faucet.org/visualizer/beta/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net Car Visualizer
+  url: http://btraffic.nanos.cc/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net Water Visualizer
+  url: https://bfountain.nanos.cc/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net Confirmation Chart
+  url: https://nano-faucet.org/beta/chart/
+  tags: [development, beta network]
+  date: 2022-03-26
+
+- name: Beta Net Wiki, Guide
+  url: https://github.com/NanoTools/wiki/blob/master/Beta-Network.md
+  tags: [development, beta network]
+  date: 2022-03-26
+
+
+
+### Video Channels
+
+
+- name: Nano
+  url: https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w
+  tags: [videos, channels]
+  date: 2022-03-26
+
+- name: Patrick Luberus - Education
+  url: https://www.youtube.com/user/PatrickLuberus/videos
+  tags: [videos, channels]
+  date: 2022-03-26
+
+- name: The Nano Guy - Education
+  url: https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw
+  tags: [videos, channels]
+  date: 2022-03-26
+
+- name: DonjiKong - Nano Talk
+  url: https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q
+  tags: [videos, channels]
+  date: 2022-03-26
+
+- name: The Best of Nano - Collection
+  url: https://www.youtube.com/channel/UCZPMq8bb4-4mYiJiCpIfYEg
+  tags: [videos, channels]
+  date: 2022-03-26
+
+- name: Based LeMahieu - Comedy
+  url: https://www.youtube.com/channel/UCl-pIyBfBCv22Vd9XeoRffw
+  tags: [videos, channels]
+  date: 2022-03-26
+
+
+### Interesting Videos [Not in channels above]
+
+
+- name: The Power of Digital Money - 1 Nano passing around the world
+  url: https://youtu.be/iKt9KepQQF4
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Transaction Speed Demo - Mobile to Mobile
+  url: https://youtu.be/5K8rRISz4RU
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Transaction Speed Demo - Confirmation Node to Node
+  url: https://youtu.be/R6oxmQaiFJI
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Colin LeMahieu Interviewed by The Crypto Lark Feb 2018
+  url: https://youtu.be/hAy4GDV7tvQ
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Colin LeMahieu Interviewed by DataDash Oct 2018
+  url: https://youtu.be/eWdOkIev_xM
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019
+  url: https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Colin LeMahieu Interviewed on Crypto Finder Sep 2019
+  url: https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020
+  url: https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021
+  url: https://youtu.be/GHh3UcCiIS0
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: George Coxon Interviewed on That Tech Show Jul 2021
+  url: https://play.acast.com/s/that-tech-show/episode-24-george-coxon
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Nano review by Coin Bureau Oct 2019
+  url: https://youtu.be/JkoXe6M-59U
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Blockchain Central&#58; Interview with Colin and Andy Oct 2019
+  url: https://youtu.be/rhMGXoWGZfg
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Patrick Luberus on the "When The Music Stops" podcast
+  url: https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better
+  url: https://youtu.be/iA7EdqAMS3o
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+
+
+- name: Everything you need to know about Nano
+  url: https://youtu.be/ywgMlJBli7g
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Nano simply explained
+  url: https://youtu.be/dlRhUwLQWXc
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Nano explained (Another deep dive)
+  url: https://youtu.be/1ciokw6ZQvE
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Nano Development 2014-2018
+  url: https://youtu.be/br8tcS8gcqE
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Nano Development 2018
+  url: https://www.youtube.com/watch?v=FqLe12zJKEE
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Why Change Your Nano Representative?
+  url: https://youtu.be/dnOTiixhPrk
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Guide&#58; Get Free Nano and Share with Anyone with Zero Fees
+  url: https://youtu.be/qSsIXy-NimE
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: Guide&#58; How to buy NANO with Coinbase and Binance
+  url: https://youtu.be/FE5yUT4-UYk
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: NanoBrewed - Beer dispensing for nano
+  url: https://youtu.be/UfLqHz5Ls-g
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+- name: NANO Espresso NFC - Coffee machine acceping NANO payments
+  url: https://youtu.be/3GmhIWZC7hA
+  tags: [videos, discussions]
+  date: 2022-03-26
+
+### Video Advertisement
+
+
+- name: Nano The Future of Money
+  url: https://youtu.be/lw-rpO0jqYQ
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: Nano Overview
+  url: https://youtu.be/JynwiU2D_K0
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: Nano is Green
+  url: https://youtu.be/JChBTohSHlM
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: The Power of Digital Money - Nano Around The Globe
+  url: https://youtu.be/iKt9KepQQF4
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: 10 reasons to use NANO instead of the Dollar
+  url: https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: Introduction to Nano Currency by F2Y
+  url: https://youtu.be/OAk2ou6EFMY
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: 2021 Nano introduction video by Exodus Wallet
+  url: https://youtu.be/71T_27Za3zk
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+- name: Why your business should accept Nano
+  url: https://youtu.be/yWoRnYFT9yo
+  tags: [videos, promotional videos]
+  date: 2022-03-26
+
+# Apps and integrations
+
+- name: TheNanoBot - Whatsapp bot
+  url: https://thenanobot.com/
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: Transaction Visualizer for iOS/Android
+  url: https://unreal.nanos.cc/#how-to
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: Nano Track - Nano Ticker
+  url: https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: Coin Stats - Multi-coin, Portfolio, Stats
+  url: https://coinstats.app/
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: Cold Crypto - Multi-coin, Address Tracker, Balance
+  url: https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: Tradingview - Advanced Real-time Trading Tool
+  url: https://www.tradingview.com/features/
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: PixelPortfolio
+  url: https://play.google.com/store/apps/details?id=com.pixelportfolio
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+- name: NANO Connect Messenger - Message app with Nano transactions
+  url: https://github.com/crixuscoach/Nano-Connect-Messenger
+  tags: [tools, apps and integrations]
+  date: 2022-03-26
+
+### Market Data, Analysis & Tickers
+
+
+- name: Coinmarketcap
+  url: https://coinmarketcap.com/currencies/nano/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Coinpaprika
+  url: https://coinpaprika.com/coin/nano-nano/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Crypto.com
+  url: https://crypto.com/price/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: CoinDataFlow
+  url: https://coindataflow.com/en/currency/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Coinlore
+  url: https://www.coinlore.com/coin/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Bitscreener
+  url: https://bitscreener.com/coins/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: CoinFYI
+  url: https://coin.fyi/coins/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Cryptoreport
+  url: https://cryptoreport.com/nano/NANO
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: TheCoinPerspective
+  url: https://thecoinperspective.com/?c=NANO
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: WorldCoinIndex
+  url: https://www.worldcoinindex.com/coin/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Cryptowat.ch - Nano/BTC Binance
+  url: https://cryptowat.ch/markets/binance/nano/btc/5m
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Tradingview - Nano/BTC Binance
+  url: https://www.tradingview.com/symbols/NANOBTC/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Coinyep - Multi-Currencies Converter
+  url: https://coinyep.com/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Livecoins - Nano/BRL/USD/BTC Converter
+  url: https://livecoins.com.br/nano-hoje-cotacao-nano/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Niuyan Market Data
+  url: https://niuyan.com/currencies/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: CoinGecko
+  url: https://www.coingecko.com/en/coins/nano
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Nanoji Chart - Emotional Nano Price Charts and Discord Bot
+  url: https://price.nanoticker.info/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Coincircus - Nano/BTC/USD
+  url: https://coincircus.io/crypto/prices/nano/NANO
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: Currency World - Nano/USD/BTC
+  url: https://currency.world/convert/NANO/USD/BTC
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: DegenTrader
+  url: https://degentrader.com/
+  tags: [tools, market data]
+  date: 2022-03-26
+
+- name: rate.sx - Graphical Curl Price Chart
+  url: https://rate.sx/xno
+  tags: [tools, market data]
+  date: 2022-03-26
+
+
+
+#
+# ## Market
+#
+# Are you ready to obtain or spend some Nano? Find your market or merchant here.
+#
+# ### Exchanges
+#
+# * [Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
+#
+#
+# ### Charity
+#
+# * [GiveNano](https://www.givenano.org/)

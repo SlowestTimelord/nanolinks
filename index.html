@@ -1,0 +1,41 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+<h1>NanoLinks</h1>
+<p>NanoLinks is a curated collection of resources from around the web for all things related to the Nano cryptocurrency (XNO) -- <em>an instant and eco-friendly digital currency with zero fees</em>.</p>
+
+<p>
+<a href="/get-started/" class="btn btn-green">Get Started with Nano</a>
+<a href="/updates/" class="btn btn-purple">Latest Updates</a>
+<a href="/news/" class="btn btn-blue">News Archive</a>
+<!-- <a href="/faq/" class="btn btn-purple">Frequently Asked Questions</a> -->
+<!-- <a href="/roadmap/" class="btn btn-blue">Nano Roadmap</a> -->
+<a href="/submit/" class="btn">Submit a Link</a>
+</p>
+
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currencyid="1567" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="false" data-marketcap="false" data-volume="false" data-statsticker="false" data-stats="USD"></div>
+<div>
+  <h2><img src="/assets/icons/featured.png" class="h2-icon" />Featured links</h2>
+  {% include linkpage.html tag="featured" multicolumn=true %}
+
+  <h2><img src="/assets/icons/links.png" class="h2-icon" />Link Sections</h2>
+  <ul id="multi-column-list">
+    {% include section_listing.html tag="information" title="Information and Education" %}
+    {% include section_listing.html tag="community" %}
+    {% include section_listing.html tag="wallets" %}
+    {% include section_listing.html tag="faucets" %}
+    {% include section_listing.html tag="explorers" title="Explorers and Statistics" %}
+    {% include section_listing.html tag="exchanges" %}
+    {% include section_listing.html tag="services" %}
+    {% include section_listing.html tag="merchant integrations" %}
+    {% include section_listing.html tag="information" %}
+    {% include section_listing.html tag="entertainment" title="Entertainment and Gaming" %}
+    {% include section_listing.html tag="videos" title="Videos and Podcasts" %}
+    {% include section_listing.html tag="development" %}
+    {% include section_listing.html tag="tools" %}
+  </ul>
+</div>

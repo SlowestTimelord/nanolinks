@@ -1,0 +1,10 @@
+## format
+# title: title of timeline event
+# date: date of timeline event
+# description: description of event
+# source: link to reference
+
+- title:
+  date: 
+  description:
+  source:
